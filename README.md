@@ -6,3 +6,4 @@ Dynamic Programming is mainly an optimization over plain recursion. Wherever we 
 
 --- 
 ![alt text](https://github.com/tycoon168/Dynamic-Programming/blob/Fix-Description/dp1.png?raw=true)
+![alt text](https://github.com/tycoon168/Dynamic-Programming/blob/Fix-Description/dp2.jpeg?raw=true)
